@@ -57,8 +57,8 @@ roles:
 education:
  - level: Bachelor of Technology (B.Tech.)
    date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+   subject: Electronics and Communication Engineering
+   school: University college of Engineering Thodupuzha
 
 #This section is optional (as is the image link below)
 coursera:
@@ -76,17 +76,7 @@ coursera:
 #List of interesting Github repo/projects to include - optional
 github:
  - robhinds/learning-neural-networks
- - robhinds/akka-http-rest-api-sample
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/food2vec
- - robhinds/SpringMongoIntegrationExample
- - robhinds/SpringNeo4JWebApp
- - robhinds/AndroidChuckQuiz
- - robhinds/AndroidRssReader
+
 
 #Stackoverflow flair is optional
 stackoverflow:
