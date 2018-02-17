@@ -41,7 +41,7 @@ roles:
    start: 2017
    end: Ongoing
    employer: Quest
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+   description: Health care domain, Web Application Development using Spring ,Java,Angular4 ,SpringBoot, Swagger, pgAdmin,STS,VS Code Junit, Rest Assured,SonarQube, SVN, Maven
  - title: Tech Lead
    start: 2016
    end: 2017
@@ -51,6 +51,11 @@ roles:
    start: 2010
    end: 2016
    employer: Corpus/Multichoice
+   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+  - title: Senior Software Engineer
+   start: 2007
+   end: 2010
+   employer: Tata Elxsi
    description: A range of functional and technical roles, primarily working on client sites in Financial Services.
 
 #Education is required
