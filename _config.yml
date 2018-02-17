@@ -40,17 +40,17 @@ roles:
  - title: Project Lead
    start: 2017
    end: Ongoing
-   employer: Emerald Street Ventures
+   employer: Quest
    description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
+ - title: Tech Lead
+   start: 2016
+   end: 2017
+   employer: Wipro
    description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
+ - title: Senior Consultant
+   start: 2010
+   end: 2016
+   employer: Corpus/Multichoice
    description: A range of functional and technical roles, primarily working on client sites in Financial Services.
 
 #Education is required
@@ -74,8 +74,8 @@ coursera:
       date: April 28, 2014
 
 #List of interesting Github repo/projects to include - optional
-github:
- - robhinds/learning-neural-networks
+#github:
+# - robhinds/learning-neural-networks
 
 
 #Stackoverflow flair is optional
